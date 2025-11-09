@@ -12,4 +12,14 @@ Hi, I'm Manjukrishna!
 
  Open to collaborating on cloud automation, deployment pipelines, and infrastructure-as-code projects.
 
- Reach me at mmanjukrishna33@gmail.com or connect on LinkedIn
+ Reach me at mmanjukrishna33@gmail.com or connect on linkedin.com/in/manjukrishna-m/
+
+ Hands-on Key Skills
+
+☁️ Cloud Platform: AWS (EC2, S3, IAM, CodeDeploy, CloudWatch)
+🔄 CI/CD Tools: Jenkins, GitHub Actions
+🧱 Infrastructure as Code: Terraform
+🐳 Containerization: Docker
+☸️ Orchestration: Kubernetes (Basics)
+💻 Scripting: Shell Scripting
+🐧 Operating Systems: Linux, Windows
